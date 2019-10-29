@@ -1,0 +1,24 @@
+{
+  "name": "simple-game",
+  "version": "1.0.0",
+  "description": "My first web-game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesterOrNot/Simple-Game.git"
+  },
+  "author": "Sean Hellum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesterOrNot/Simple-Game/issues"
+  },
+  "homepage": "https://github.com/JesterOrNot/Simple-Game#readme",
+  "dependencies": {
+    "@types/node": "^12.11.7",
+    "express": "^4.17.1",
+    "typescript": "^3.6.4"
+  }
+}
