@@ -9,4 +9,3 @@ ports:
 tasks:
 - init: npm install
   init: tsc static/game.ts
-  init: node app.ts
